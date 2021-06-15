@@ -389,7 +389,7 @@
         </execution>
     </executions>
     <configuration>
-        <webappDirectory>target/webapp</webappDirectory>
+        <webappDirectory>target</webappDirectory>
     </configuration>
 </plugin>
           </plugins>
